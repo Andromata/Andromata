@@ -46,3 +46,7 @@ Recently, in the pursuit of continuing to grow, I immersed myself in the world o
   &nbsp;
   <img src="https://user-images.githubusercontent.com/69209369/116449049-22c27d00-a830-11eb-86f8-649703272c4f.png" width="85" alt="accessibility text">
 </p>
+
+### `EXPERIENCE`
+
+<img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="35" alt="accessibility text"> Soy Henry Bootcamp Full Stack developer :rocket::book:
