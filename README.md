@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 ![image](https://raw.githubusercontent.com/Andromata/Andromata/main/header.png)
 
 ### `What about me?`
+I think creativity is those kinds of things that are intrinsic to our nature, it is the ability that makes us believe in the impossible, create a future, see a vision come true. I am passionate about design and development, today the most viable door to communicate and share ... also what I enjoy the most is doing it from an artistic place.
 
-I am a dedicated, creative and curious person, who always enjoys learning something new.
-I have dedicated a large part of my life to working within the world of technology and have developed independently from an early age in graphic design. I could say that 80% of my knowledge has been self-taught, which makes me very proud.
-Recently, in the pursuit of continuing to grow, I immersed myself in the world of programming, i must say... this is just the beginning.
+Love Coding + Design
 
 ### `My Skills`
 
