@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://raw.githubusercontent.com/Andromata/Andromata/main/header.png)
-
 ### `What about me?`
 I think creativity is those kinds of things that are intrinsic to our nature, it is the ability that makes us believe in the impossible, create a future, see a vision come true. I am passionate about design and development, today the most viable door to communicate and share ... also what I enjoy the most is doing it from an artistic place.
 
